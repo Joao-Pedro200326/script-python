@@ -1,0 +1,6 @@
+RESUL = (800, 600)
+RESUL_BASE = (800, 600)
+
+P_VEL = 4
+P_VELM = 3
+FPS = 60
